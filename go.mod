@@ -1,5 +1,5 @@
-module moringa_gin_api
+module moringa-gin-api
 
-go 1.20
+go 1.13
 
-require github.com/gin-gonic/gin v1.9.1
+require github.com/gin-gonic/gin v1.7.7
